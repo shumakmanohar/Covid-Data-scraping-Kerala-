@@ -1,7 +1,7 @@
 # How to Use the Webscrapper
 
   ```javascript
-     node app.js
+     node index.js
   ```
   
 ## Details 
